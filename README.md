@@ -1,2 +1,2 @@
 # embedded-systems-spring-2026
-Embedded Systems Spring 2026 Repository
+This repository will be used for embedded systems work.
